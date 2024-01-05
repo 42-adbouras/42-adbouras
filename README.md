@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![adbouras's 42 stats](https://badge.mediaplus.ma/darkblue/adbouras?UM6P=off)](https://github.com/oakoudad/badge42)
+[![adbouras's 42 stats](https://badge.mediaplus.ma/colorfulwaves/adbouras?UM6P=off)](https://github.com/oakoudad/badge42)
