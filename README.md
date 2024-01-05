@@ -1,2 +1,5 @@
 
-[![adbouras's 42 stats](https://badge.mediaplus.ma/kettlebells/adbouras)](https://github.com/oakoudad/badge42)
+
+<a href="https://github.com/oakoudad/badge42" align="left">
+    <img src="https://badge.mediaplus.ma/kettlebells/adbouras" alt="adbouras's 42 stats" style="width:600px"/>
+</a>
